@@ -87,5 +87,3 @@ Open `Text Processing.ipynb` using Jupyter Notebook or JupyterLab and run throug
 This project is licensed under the MIT License.
 
 ---
-
-Would you like me to also generate a `requirements.txt` file from the notebook’s imports?
