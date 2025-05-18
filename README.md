@@ -57,7 +57,7 @@ Open `Text Processing.ipynb` using Jupyter Notebook or JupyterLab and run throug
 
 ---
 
-### 📊 Sample Workflow Overview
+### Sample Workflow Overview
 
 1. **Emoji Extraction**
    Emojis are extracted and replaced with representative text (`:smile:`, `:angry:`) to retain emotional context.
@@ -73,7 +73,7 @@ Open `Text Processing.ipynb` using Jupyter Notebook or JupyterLab and run throug
 
 ---
 
-### 📌 Use Cases
+### Use Cases
 
 * Sentiment-aware chatbot training
 * Customer support automation
@@ -82,7 +82,7 @@ Open `Text Processing.ipynb` using Jupyter Notebook or JupyterLab and run throug
 
 ---
 
-### 📄 License
+### License
 
 This project is licensed under the MIT License.
 
